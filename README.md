@@ -4,3 +4,6 @@
 # git push
 # git rebase
 # git status
+# git branch
+# git checkout -b 'branch_name'
+# git checkout 'branch_name'
